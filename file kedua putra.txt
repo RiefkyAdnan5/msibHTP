@@ -1,0 +1,5 @@
+properti pada css:
+1. color
+2. background-color
+3. padding
+4. margin
