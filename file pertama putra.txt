@@ -1,0 +1,4 @@
+tipe selector pada css:
+1. Selector tag, misal (nama tag{properti: nilai;})
+2. Selector id, misal (#nama tag{properti: nilai;})
+3. Selector class, misal (.nama tag{properti: nilai;})
