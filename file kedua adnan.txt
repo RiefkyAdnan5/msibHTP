@@ -1,0 +1,4 @@
+lanjutan hal yang dipelajari:
+5. Php
+6. MySql
+7. Framework
