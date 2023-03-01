@@ -1,0 +1,4 @@
+tag-tag pada html:
+1. tag p untuk paragraf
+2. tag H1-H5 untuk header
+3. tag img untuk memanggil gambar
