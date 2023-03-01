@@ -1,0 +1,5 @@
+Hal yang dipelajari:
+1. Html dan Css
+2. Github
+3. Softskill
+4. Js
